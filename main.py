@@ -1,7 +1,6 @@
 # Lab05avst.py
 # This is a program that determines palindromes
 # Evin Lodder 11/9/22
-import re
 # Function <isPal> returns true if <str> is a "palindrome"
 # and false otherwise.
 def isPal(string: str) -> bool:
